@@ -9,4 +9,4 @@ Gerardo Rodriguez
 - Sai Prakash Reddy Nallapareddy
 
 
-Click [Here](https://youtu.be/bmV6_hukweQ) to watch a Video Demo of our Photo App(React) Application
+Click [Here](https://youtu.be/bmV6_hukweQ) to watch a Video Demo of our Photo App (React Application)
